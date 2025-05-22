@@ -15,7 +15,7 @@
 - **Languages:** Java, Android SDK  
 - **Libraries:** Retrofit, Volley, Google Maps, ZXing, OCR, GSON, Material Design, ExoPlayer, EsePosPrinter  
 - **Payments:** Razorpay, Paytm, PayPal, PayU Money, CC Avenue, Cashfree, HDFC, SabPaisa  
-- **Integrations:** BBPS, MLM, ShipRocket  
+- **Integrations:** BBPS, MLM, ShipRocket, Socket  
 - **Ads:** Google Ads, Facebook Ads, AppLovin  
 - **Tools:** Android Studio, Postman, GitHub
 
